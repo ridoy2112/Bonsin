@@ -441,6 +441,7 @@ nav ul .dropdown-menu a {
     bottom: 0;
     left: 0;
     width: 100%;
+    opacity: 1;
     transition: all linear 0.4s;
 }
 
@@ -810,8 +811,14 @@ nav ul .dropdown-menu a {
     width: 596px;
 
 }
-
-#vision .items .play-button {}
+#vision .items .demo .vison-pra{
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 20px 0;
+    width: 596px;
+}
 
 #vision .items .play-button .round1 {
     position: relative;
