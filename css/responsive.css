@@ -56,7 +56,7 @@
         width: auto;
     }
     #choose .elements i {
-        top: 19px;
+        top: 70px;
     }
 
     #offer {
@@ -261,7 +261,7 @@
         width: auto;
     }
     #choose .elements i {
-        top: 30px;
+        top: 35px;
     }
 
     #offer {
@@ -353,6 +353,7 @@
     }
     #client .image .image-item{
         margin: 0 auto;
+        margin-top: 10px;
     }
     #client .img {
         text-align: center;;
@@ -378,9 +379,6 @@
         width: auto;
     }
     #news .news-items h4 {
-        width: auto;
-    }
-    .row > * {
         width: auto;
     }
     #news img {
