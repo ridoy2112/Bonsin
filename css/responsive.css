@@ -1,4 +1,4 @@
-@media (min-width:320px) and (max-width:566px) {
+@media (min-width:320px) and (max-width:577px) {
     header .items {
         border-right: 0;
     }
@@ -96,7 +96,216 @@
     #team .img img {
         margin-top: 20px;
     }
+    #counter .overly .items {
+        margin-left: 66px;
+    }
+    #faq {
+        padding: 30px 0;
+    }
 
+    #faq h2 {
+        width: auto;
+    }
+
+    #faq p {
+        width: auto;
+        text-align: center;
+    }
+
+    #faq h2 {
+        width: auto;
+    }
+    #faq img {
+        position: static;
+        margin-top: 16px;
+    }
+
+    #plan {
+        padding: 30px;
+    }
+    #plan .check p {
+        font-size: 14px;
+    }
+    #plan .items p {
+        width: auto;
+    }
+    #plan .details {
+        margin-top: 30px;
+    }
+    #client {
+        padding: 30px;
+    }
+    #client .items p {
+        width: auto;
+    }
+    #client .image .image-item{
+        margin: 0 auto;
+    }
+    #client .image{
+        margin-top: 20px;
+    }
+    #client .image .pra {
+        width: auto;
+    }
+    #client .img {
+        text-align: center;
+    }
+    #client .img .tick {
+        top: -7px;
+        right: -9px;
+    }
+    #vision .items h2 {
+        width: auto;
+    }
+    #vision .items p {
+        width: auto;
+    }
+    #vision {
+        background: #EA3A60;
+        padding: 30px 0;
+    }
+    #news {
+        padding: 30px;
+    }
+    #news .items p {
+        width: auto;
+    }
+    #news .news-items h4 {
+        width: auto;
+    }
+    .row > * {
+        width: auto;
+    }
+    #news img {
+        width: 100%;
+        margin-top: 20px;
+    }
+    #contact {
+        padding: 30px 0;
+    }
+    #contact .logo p {
+        width: auto;
+    }
+    #contact .quick h1 {
+        font-size: 14px;
+    }
+    #contact .quick ul li {
+        font-size: 14px;
+    }
+    #contact .logo h3 {
+        margin-bottom: 10px;
+    }
+    #contact .logo h2 {
+        font-size: 20px;
+    }
+    .navbar .navbar-collapse ul li{
+        border-bottom:1px solid #fff;
+    }
+
+}
+@media (min-width:576px) and (max-width:577px) {
+    header .items {
+        border-right: 0;
+    }
+
+    header .icon {
+        font-size: 13px;
+        margin-left: 30px;
+        text-align: left;
+    }
+
+    #banner-part1 .overly .info-box {
+        background: none;
+    }
+
+    #banner-part1 .overly .info-box {
+        padding: 0px;
+    }
+
+    #banner-part1 .overly .info-box h1 {
+        font-size: 35px;
+    }
+
+    #banner-part1 .overly .info-box .second-pra {
+        width: 330px;
+    }
+
+    #solution {
+        margin: 40px 0;
+    }
+
+    #solution h1 {
+        width: auto;
+        margin-top: 22px;
+    }
+
+    #solution .p1 {
+        width: auto;
+    }
+
+    #solution .p2 {
+        width: auto;
+        text-align: center;
+    }
+
+    #solution a {
+        padding: 10px 10px;
+        display: flex;
+        justify-content: center;
+    }
+    #choose p {
+        width: auto;
+        padding: 10px 0;
+    }
+    #choose .elements p {
+        width: auto;
+    }
+    #choose .elements i {
+        top: 84px;
+    }
+
+    #offer {
+        padding: 30px 0;
+    }
+
+    #offer .part1-pra {
+        width: auto;
+        padding: 10px 10px;
+    }
+
+    #offer .second-part .items p {
+        width: auto;
+    }
+
+    #offer .second-part .items {
+        margin: 5px;
+    }
+
+    #offer .second-part .items {
+        padding: 40px 40px;
+        margin: 5px;
+    }
+
+    #team {
+        padding: 30px 0;
+    }
+
+    #team .items p {
+        width: auto;
+    }
+    #team .img {
+        margin-left: 21px;
+    }
+    #team .img img {
+        margin-top: 20px;
+    }
+
+    #team .img img {
+        margin-top: 20px;
+    }
+    #counter .overly .items {
+        margin-left: 66px;
+    }
     #faq {
         padding: 30px 0;
     }
@@ -142,10 +351,11 @@
     #client .image .pra {
         width: auto;
     }
+    #client .image .image-item{
+        margin: 0 auto;
+    }
     #client .img {
-        text-align: center;
-        margin-left: 34px;
-        margin-top: 10px;
+        text-align: center;;
     }
     #client .img .tick {
         top: -7px;
@@ -177,6 +387,9 @@
         width: 100%;
         margin-top: 20px;
     }
+    #news .news-items .comments .comment {
+        padding-left: 200px;
+    }
     #contact {
         padding: 30px 0;
     }
@@ -184,10 +397,13 @@
         width: auto;
     }
     #contact .quick h1 {
-        font-size: 14px;
+        font-size: 18px;
     }
     #contact .quick ul li {
         font-size: 14px;
+    }
+    #contact .quick-item{
+        margin: 0 auto;
     }
     #contact .logo h3 {
         margin-bottom: 10px;
